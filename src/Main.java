@@ -11,6 +11,11 @@ public class Main {
         if (numero > 0) {
             System.out.println("É un número positivo.");
         }
+
+        if (numero < 5) {
+            System.out.println("É un número positivo.");
+        }
+
         sc.close();
     }
 }
